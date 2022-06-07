@@ -2,11 +2,6 @@
   "name": "rtcmulticonnection",
   "preferGlobal": false,
   "version": "3.7.0",
-  "author": {
-    "name": "GoodIdea",
-    "email": "lixiangde888@gmail.com",
-    "url": "https://muazkhan.com/"
-  },
   "description": "RTCMultiConnection is a WebRTC JavaScript wrapper library runs top over RTCPeerConnection API to support all possible peer-to-peer features.",
   "repository": {
     "type": "git",
