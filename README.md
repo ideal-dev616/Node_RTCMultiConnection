@@ -4,12 +4,6 @@
 
 > RTCMultiConnection is a WebRTC JavaScript library for peer-to-peer applications (screen sharing, audio/video conferencing, file sharing, media streaming etc.)
 
-## Socket.io Signaling Server
-
-Signaling server has a separate repository:
-
-* https://github.com/goodidea0616/RTCMultiConnection-Server
-
 ## Demos
 
 * https://rtcmulticonnection.herokuapp.com/
@@ -17,10 +11,6 @@ Signaling server has a separate repository:
 ## Getting Started Without Any Installation
 
 * https://www.rtcmulticonnection.org/docs/getting-started/
-
-## YouTube Channel
-
-* https://www.youtube.com/playlist?list=PLPRQUXAnRydKdyun-vjKPMrySoow2N4tl
 
 ## Install On Your Own Website
 
@@ -40,20 +30,4 @@ git clone https://github.com/goodidea0616/RTCMultiConnection.git ./
 npm install
 
 node server --port=9001
-```
 
-## Integrate Inside Any Nodejs Application
-
-* https://github.com/goodidea0616/RTCMultiConnection-Server/wiki/Integrate-inside-nodejs-applications
-
-## `Config.json` Explained
-
-* https://github.com/goodidea0616/RTCMultiConnection-Server/wiki/config.json
-
-## How to Enable HTTPs?
-
-* https://github.com/goodidea0616/RTCMultiConnection-Server/wiki/How-to-Enable-HTTPs
-
-## License
-
-[RTCMultiConnection](https://github.com/goodidea0616/RTCMultiConnection) is released under [MIT licence](https://github.com/goodidea0616/RTCMultiConnection/blob/master/LICENSE.md) . Copyright (c) [GoodIdea](https://MuazKhan.com/).
