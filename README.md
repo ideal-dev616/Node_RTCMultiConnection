@@ -1,5 +1,3 @@
-![](https://i.imgur.com/MFfRBSM.png)
-
 # RTCMultiConnection - WebRTC JavaScript Library
 
 [![npm](https://img.shields.io/npm/v/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![downloads](https://img.shields.io/npm/dm/rtcmulticonnection.svg)](https://npmjs.org/package/rtcmulticonnection) [![Build Status: Linux](https://travis-ci.org/goodidea0616/RTCMultiConnection.png?branch=master)](https://travis-ci.org/goodidea0616/RTCMultiConnection)
@@ -55,17 +53,6 @@ node server --port=9001
 ## How to Enable HTTPs?
 
 * https://github.com/goodidea0616/RTCMultiConnection-Server/wiki/How-to-Enable-HTTPs
-
-## Want to Contribute?
-
-RTCMultiConnection is using `Grunt` to compile javascript into `dist` directory:
-
-* https://github.com/goodidea0616/RTCMultiConnection/blob/master/CONTRIBUTING.md
-
-## Wiki Pages
-
-1. https://github.com/goodidea0616/RTCMultiConnection/wiki
-2. https://github.com/goodidea0616/RTCMultiConnection-Server/wiki
 
 ## License
 
