@@ -5,7 +5,7 @@
   "description": "RTCMultiConnection is a WebRTC JavaScript wrapper library runs top over RTCPeerConnection API to support all possible peer-to-peer features.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/goodidea0616/RTCMultiConnection.git"
+    "url": "https://github.com/ideal-dev616/Node_RTCMultiConnection.git"
   },
   "scripts": {
     "start": "node server.js",
@@ -55,7 +55,7 @@
   "license": "MIT",
   "readmeFilename": "README.md",
   "bugs": {
-    "url": "https://github.com/goodidea0616/RTCMultiConnection/issues",
+    "url": "https://github.com/ideal-dev616/Node_RTCMultiConnection/issues",
     "email": "lixiangde888@gmail.com"
   },
   "homepage": "https://rtcmulticonnection.herokuapp.com/demos/",
